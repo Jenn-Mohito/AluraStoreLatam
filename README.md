@@ -31,10 +31,10 @@ El estudio del costo de envío revela un hallazgo sorprendente sobre la operativ
 
 Dato Clave: La Tienda 4 es el referente en eficiencia logística, operando con los costos de distribución más bajos ($23,459) de toda la red.
 
-🛠️ Ejecución del Proyecto
+## 🛠️ Ejecución del Proyecto
 Entorno: El notebook es compatible con Google Colab y entornos Jupyter locales.
 
-💡 Conclusión Estratégica
+## 💡 Conclusión Estratégica
 Tras el análisis integral, la recomendación para el Sr. Juan es no vender ninguna de las tiendas. Aunque la Tienda 4 registra la facturación más baja, su altísima eficiencia logística la convierte en una pieza clave para la rentabilidad futura de la red. El análisis concluye que la mejor estrategia para financiar el nuevo emprendimiento no es la liquidación de un activo, sino la optimización operativa: replicar el modelo logístico de la Tienda 4 y la calidad de servicio de la Tienda 3 en las sedes con mayor volumen de ventas para maximizar los beneficios netos globales.
 
 Autor: Jennifer Noelia Soto Quiñonez
