@@ -1,4 +1,5 @@
-#Análisis Estratégico Alura Store Latam – Challenge ONE
+Análisis Estratégico Alura Store Latam – Challenge ONE
+
 🎯 Objetivo del Proyecto
 Este análisis forma parte del programa Oracle Next Education (ONE) - Alura Latam. El propósito principal es asesorar al Sr. Juan en la evaluación de sus cuatro tiendas de Alura Store. Ante la necesidad de capital para un nuevo emprendimiento, el proyecto busca identificar cuál de las sucursales presenta el rendimiento menos favorable para una posible venta, basándose en datos reales de facturación, logística y satisfacción del cliente.
 
