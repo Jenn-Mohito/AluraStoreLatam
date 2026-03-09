@@ -1,16 +1,16 @@
 # Análisis Estratégico Alura Store Latam – Challenge ONE
 
-🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto
 Este análisis forma parte del programa Oracle Next Education (ONE) - Alura Latam. El propósito principal es asesorar al Sr. Juan en la evaluación de sus cuatro tiendas de Alura Store. Ante la necesidad de capital para un nuevo emprendimiento, el proyecto busca identificar cuál de las sucursales presenta el rendimiento menos favorable para una posible venta, basándose en datos reales de facturación, logística y satisfacción del cliente.
 
-📂 Metodología y Herramientas
+## 📂 Metodología y Herramientas
 El estudio se centraliza en el notebook AluraStoreLatam.ipynb, donde se procesan los datos utilizando las siguientes librerías de Python:
 Pandas: Para la manipulación y estructuración de los datos.
 Numpy: Para el soporte de operaciones matemáticas y arreglos.
 Matplotlib: Para la creación de visualizaciones base.
 Seaborn: Para la generación de gráficos estadísticos avanzados.
 
-📈 Hallazgos y Visualizaciones
+## 📈 Hallazgos y Visualizaciones
 1. Rendimiento Financiero
 La Tienda 1 se identifica como el motor principal de ingresos de la cadena. El análisis de categorías muestra que Muebles y Electrónicos son el núcleo del negocio.
 
